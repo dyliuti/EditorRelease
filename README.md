@@ -1,6 +1,6 @@
 # EditorRelease
 #### 简介
-结合AI+渲染+编辑器技术的智能图片编辑器-APP发版库\
+结合AI+渲染+编辑器技术的智能图片编辑器-APP发版库。支持win10、11，mac apple和intel芯片\
 win.zip：解压后双击main.exe即可运行\
 mac.zip: 解压后双击main.dmp,再双击main.pro或将其拖到Application后再运行都行\
 软件截图保存地址：文档/Document-graphics目录下
@@ -19,13 +19,17 @@ mac.zip: 解压后双击main.dmp,再双击main.pro或将其拖到Application后�
 4. 滤镜
 5. 历史记录
 6. 导入导出图片、移动画布、缩放照片等
-7. 天空替换(只有win有，实现的还不太好)
    
 #### **下载使用**
 见右侧Release-demo版v1.0.0
+
+mac解压后，双击将main拖到Application中，双击打开，在设置-隐私中允许打开
+
 #### 其它
 
 开发语言：Qt6.7
+
 AI：Google的mediapipe
+
 渲染：opengl
 
