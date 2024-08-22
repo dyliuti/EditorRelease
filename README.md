@@ -2,7 +2,7 @@
 #### 简介
 结合AI+渲染+编辑器技术的智能图片编辑器-APP发版库。支持win10、11，mac apple和intel芯片\
 win.zip：解压后双击main.exe即可运行\
-mac.zip: 解压后双击main.dmp,再将其拖到Application后再运行. 不要直接双击main.app（若这样，染发功能会有点问题）\
+mac.zip: 解压后双击main.dmp,再将main.app拖到Application后再运行. 不要在main.dmp中直接双击main.app（若这样，染发功能会有点问题）\
 mac开发环境在intel芯片，apple芯片机子表现可能差点。本人将压缩包在apple芯片中运行感觉首次点图片进入精修页速度较慢。\
 **软件截图保存地址**：文档/Document-graphics目录下
 
